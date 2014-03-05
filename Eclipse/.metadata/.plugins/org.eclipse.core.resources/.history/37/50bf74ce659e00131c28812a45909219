@@ -1,0 +1,21 @@
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JTextField;
+
+public class RegExprView extends JFrame{
+	private RegExprController c;
+	private RegExprModel m;
+	private JButton b;
+	private JTextField txt1;
+	private JTextField txt2;
+	private JLabel l;
+	public RegExprView(RegExprController c, RegExprModel m){
+		this.c=c;
+		this.m=m;
+		b=new JButton ("Start!");
+		txt1=new JTextField("Matcher Inhalt",100);
+		txt2=new JTextField("Pattern Inhalt",100);
+		l=new JLabel(m.getTranslate()+"");
+		}
+}

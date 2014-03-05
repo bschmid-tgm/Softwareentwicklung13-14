@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_xx (Mac)
+
+Implementation-Title: hellopackage
+Implementation-Version: git4fa3292
+Specification-Vendor: Listig Gmbh
+Specification-Title: ultra important package
+Specification-Version: 0.1
