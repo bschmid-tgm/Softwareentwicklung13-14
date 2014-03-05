@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move 6 elements to &apos;AU02/src&apos;&#x0A;- Original project: &apos;SNAKE&apos;&#x0A;- Destination element: &apos;AU02/src&apos;&#x0A;- Original elements:&#x0A;     SnakeModel.java&#x0A;     SnakeController.java&#x0A;     SnakeRun.java&#x0A;     SnakeTest.java&#x0A;     SnakePanel.java&#x0A;     SnakeView.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="=AU02/src" element1="/src&lt;{SnakeModel.java" element2="/src&lt;{SnakeController.java" element3="/src&lt;{SnakeRun.java" element4="/src&lt;{SnakeTest.java" element5="/src&lt;{SnakePanel.java" element6="/src&lt;{SnakeView.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1384341857627" units="6" version="1.0"/>
-</session>
